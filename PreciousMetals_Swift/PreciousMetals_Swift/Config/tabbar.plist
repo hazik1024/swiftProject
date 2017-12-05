@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>itemName</key>
+		<string>首页</string>
+		<key>itemImage</key>
+		<string>home</string>
+		<key>itemImageChecked</key>
+		<string>home_checked</string>
+		<key>itemTag</key>
+		<integer>0</integer>
+		<key>storyboardName</key>
+		<string>Home</string>
+		<key>rootVcName</key>
+		<string>HomeNC</string>
+	</dict>
+	<dict>
+		<key>itemName</key>
+		<string>行情</string>
+		<key>itemImage</key>
+		<string>quotation</string>
+		<key>itemImageChecked</key>
+		<string>quotation_checked</string>
+		<key>itemTag</key>
+		<integer>1</integer>
+		<key>storyboardName</key>
+		<string>PMQuotation</string>
+		<key>rootVcName</key>
+		<string>PMQuotationNC</string>
+	</dict>
+	<dict>
+		<key>itemName</key>
+		<string>交易</string>
+		<key>itemImage</key>
+		<string>trade</string>
+		<key>itemImageChecked</key>
+		<string>trade_checked</string>
+		<key>itemTag</key>
+		<integer>2</integer>
+		<key>storyboardName</key>
+		<string>PMTrade</string>
+		<key>rootVcName</key>
+		<string>PMTradeNC</string>
+	</dict>
+	<dict>
+		<key>itemName</key>
+		<string>我的</string>
+		<key>itemImage</key>
+		<string>my</string>
+		<key>itemImageChecked</key>
+		<string>my_checked</string>
+		<key>itemTag</key>
+		<integer>3</integer>
+		<key>storyboardName</key>
+		<string>PMMy</string>
+		<key>rootVcName</key>
+		<string>PMMyNC</string>
+	</dict>
+</array>
+</plist>
